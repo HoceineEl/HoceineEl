@@ -13,7 +13,6 @@ I'm Hoceine EL IDRISSI, a Moroccan Full Stack Web Developer passionate about cod
 - 💰 Aiming to earn a living through my coding skills and even start a programming YouTube channel.
 
 ## Connect with Me
-- LinkedIn: [Your LinkedIn Profile](Your LinkedIn Profile URL)
-- Twitter: [@YourTwitterHandle](Your Twitter URL)
+- LinkedIn: [elidrissihoceine](www.linkedin.com/in/elidrissihoceine)
 
 Feel free to reach out, whether you want to discuss programming or chat about life. Let's connect and learn together on this coding journey! 👍
