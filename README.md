@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=hoceineel)
 
-I'm Hoceine EL IDRISSI, a Moroccan Full Stack Web Developer passionate about coding and creating web applications. I specialize in technologies like Laravel, Vue.js, Bootstrap, and Tailwind CSS.
+I'm Hoceine EL IDRISSI, a Moroccan Full Stack Web Developer passionate about coding and creating web applications. I specialize in technologies like Laravel, Vue.js,Nuxt Js , Tailwind CSS , and Bootstrap .
 
 ## About Me
 - 🇲🇦 Proudly representing Morocco in the world of web development.
