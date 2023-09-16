@@ -1,8 +1,11 @@
 # Welcome to My GitHub Profile 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=hoceineel)
+<div align=center>
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=35&duration=3500&pause=300&color=A89568&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Hoceine+EL+IDRISSI;aka+Ellehya" alt="Typing SVG" /></a>
+  </div>
 
-I'm Hoceine EL IDRISSI, a Moroccan Full Stack Web Developer passionate about coding and creating web applications. I specialize in technologies like Laravel, Vue.js,Nuxt Js , Tailwind CSS , and Bootstrap .
+I'm a Moroccan Full Stack Web Developer passionate about coding and creating web applications. I specialize in technologies like Laravel, Vue.js,Nuxt Js , Tailwind CSS , and Bootstrap .
 
 ## About Me
 - 🇲🇦 Proudly representing Morocco in the world of web development.
