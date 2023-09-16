@@ -11,12 +11,8 @@ I'm Hoceine EL IDRISSI, a Moroccan Full Stack Web Developer passionate about cod
 ## My Goals
 - 🚀 Striving to become a great Full Stack Developer and make a positive impact on the tech world.
 - 💰 Aiming to earn a living through my coding skills and even start a programming YouTube channel.
-
-## Connect with Me
-- LinkedIn: [elidrissihoceine](www.linkedin.com/in/elidrissihoceine)
-
-Feel free to reach out, whether you want to discuss programming or chat about life. Let's connect and learn together on this coding journey! 👍
-## 📈 My GitHub Stats and Activity
+- 
+- ## 📈 My GitHub Stats and Activity
 
 ### 💻 Profile Stats
 
@@ -26,3 +22,9 @@ Feel free to reach out, whether you want to discuss programming or chat about li
 ### 🔥 Streak Stats
 
 ![Berkeli's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=hoceineel&theme=tokyonight)
+
+
+## Connect with Me
+- LinkedIn: [elidrissihoceine](www.linkedin.com/in/elidrissihoceine)
+
+Feel free to reach out, whether you want to discuss programming or chat about life. Let's connect and learn together on this coding journey! 👍
