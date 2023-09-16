@@ -14,7 +14,6 @@ I'm a Moroccan Full Stack Web Developer passionate about coding and creating web
 ## My Goals
 - 🚀 Striving to become a great Full Stack Developer and make a positive impact on the tech world.
 - 💰 Aiming to earn a living through my coding skills and even start a programming YouTube channel.
-- 
 - ## 📈 My GitHub Stats and Activity
 
 ### 💻 Profile Stats
