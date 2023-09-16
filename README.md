@@ -23,23 +23,7 @@ I'm Hoceine EL IDRISSI, a Moroccan Full Stack Web Developer passionate about cod
 
 ![Berkeli's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=hoceineel&theme=tokyonight)
 
-**Be Drop Dead.**
 
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/hoceineel/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/hoceineel/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/hoceineel/output/github-contribution-grid-snake.svg"
-  />
-</picture>
 ## Connect with Me
 - LinkedIn: [elidrissihoceine](www.linkedin.com/in/elidrissihoceine)
 
