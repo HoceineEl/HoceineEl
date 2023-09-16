@@ -13,6 +13,7 @@ I'm Hoceine EL IDRISSI, a Moroccan Full Stack Web Developer passionate about cod
 - 💰 Aiming to earn a living through my coding skills and even start a programming YouTube channel.
 - 
 - ## 📈 My GitHub Stats and Activity
+![](https://raw.githubusercontent.com/hoceineel/hoceineel/output/github-contribution-grid-snake.svg)
 
 ### 💻 Profile Stats
 
