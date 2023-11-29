@@ -16,9 +16,6 @@ I'm a Moroccan Full Stack Web Developer passionate about coding and creating web
 - 💰 Aiming to earn a living through my coding skills and even start a programming YouTube channel.
 - ## 📈 My GitHub Stats and Activity
 
-### 💻 Profile Stats
-
-<img alt="Berkeli's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoceineel&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
 
 
 ### 🔥 Streak Stats
