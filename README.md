@@ -11,16 +11,6 @@ I'm a Moroccan Full Stack Web Developer passionate about coding and creating web
 - 🇲🇦 Proudly representing Morocco in the world of web development.
 - 💻 I specialize in using Laravel, Vue.js, Bootstrap, and Tailwind CSS to create awesome web applications.
 
-## My Goals
-- 🚀 Striving to become a great Full Stack Developer and make a positive impact on the tech world.
-- 💰 Aiming to earn a living through my coding skills and even start a programming YouTube channel.
-- ## 📈 My GitHub Stats and Activity
-
-
-
-### 🔥 Streak Stats
-
-![Berkeli's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=hoceineel&theme=tokyonight)
 
 
 ## Connect with Me
