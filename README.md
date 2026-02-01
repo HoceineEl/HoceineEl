@@ -3,7 +3,7 @@
       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Architects+Daughter&color=7AF79A&size=35&duration=3500&pause=300&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Hoceine+EL+IDRISSI;aka+Ellehya" alt="Typing SVG" /></a>
   </div>
 
-checkout my [portfolio](www.hoceine.com)
+checkout my [portfolio](https://hoceine.com)
 
 ## Connect with Me
 - LinkedIn: [elidrissihoceine](www.linkedin.com/in/elidrissihoceine)
