@@ -6,6 +6,6 @@
 checkout my [portfolio](https://hoceine.com)
 
 ## Connect with Me
-- LinkedIn: [elidrissihoceine](www.linkedin.com/in/elidrissihoceine)
+- LinkedIn: [elidrissihoceine](https://linkedin.com/in/elidrissihoceine)
 
 Feel free to reach out, whether you want to discuss programming or chat about life. Let's connect and learn together on this coding journey! 👍
