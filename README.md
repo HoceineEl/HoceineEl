@@ -25,14 +25,17 @@ I'm a freelance **Laravel & Filament** developer based in Morocco. Since 2023 I'
 
 | Project | What it is |
 |---|---|
+| **Mediano** | Multi-tenant sports academy management, a branded space per academy, 3,400+ commits since 2024 |
+| **SmartShop** | Multi-vendor e-commerce with POS, REST API, Stripe/PayPal and Aramex/DHL/FedEx shipping |
 | **Ala Khutah** | Saudi national project on the Hijra trail: 2M+ visitors at launch, 1M+ registrations |
-| **SmartShop** | Multi-vendor e-commerce with POS, Stripe/PayPal and Aramex/DHL/FedEx shipping |
-| **Mediano** | Multi-tenant sports academy management, 3,400+ commits since 2024 |
-| **Adiaf** | Hajj operations platform with six role-based panels |
+| **Adiaf** | Hajj operations platform with six role-based panels, from pilgrim registration to completion |
 | **Nokhbat Alhoffaz** | Quran reading circles PWA with voice recitations, streaks and push reminders |
-| **WiserPocket** | AI finance tracker you can talk to, in four languages |
+| **WiserPocket** | AI finance tracker you can talk to, with voice and receipt input, in four languages |
+| **DecorCopilot** | AI interior design: photograph a room and restyle it in 30+ styles with Gemini |
+| **Mwshor** | Project management platform for agencies |
+| **EisarApp** | Training and compliance platform |
 
-More on **[hoceine.com](https://hoceine.com)**.
+All 19 projects on **[hoceine.com](https://hoceine.com)**.
 
 ### Open source
 
